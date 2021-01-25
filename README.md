@@ -1,6 +1,8 @@
 # NLP-colab-trainer
 A collection of colab trainer for NLP tasks.
 
+**Check all NLP Tasks and their Progress [Here](http://nlpprogress.com)** 
+
 ### NLP and deep learing models and packages
 
 * [Tensorflow1](https://colab.research.google.com/github/Hvass-Labs/TensorFlow-Tutorials) (Tensorflow)(transfer learning)(CNN)(RL)(image)
@@ -45,6 +47,31 @@ A collection of colab trainer for NLP tasks.
 * [LSTM](https://github.com/urigoren/nlp_ner_workshop/blob/master/notebooks/NER%20with%20LSTM.ipynb)
 * [Bi-LSTM](https://github.com/urigoren/nlp_ner_workshop/blob/master/notebooks/NER_with_Pytorch_Bi_LSTM.ipynb)
 * [BERT](https://colab.research.google.com/github/NVIDIA/NeMo/blob/0.9rc/examples/nlp/NERWithBERT.ipynb)
+* [SKlearn-Crf/Nltk](https://colab.research.google.com/github/dipanjanS/nlp_workshop_odsc19/blob/master/Module03%20-%20Text%20Understanding/Project%20-%20Building%20NER%20Taggers.ipynb)
+
+### Parts of Speech(pos) tagging
+
+* [nltk/sklearn-CRF](https://colab.research.google.com/drive/1d7LO_0665DYw6DrVJXXautJAJzHHqYOm)
+* [Bert](https://github.com/soutsios/pos-tagger-bert/blob/master/pos_tagger_bert.ipynb)
+* [Bi-LSTM-1](https://github.com/Helvind/BiLSTM/blob/master/UD13_Load_Preprocess.py)
+* [Bi-LSTM-2](https://github.com/bentrevett/pytorch-pos-tagging/blob/master/1%20-%20BiLSTM%20for%20PoS%20Tagging.ipynb)
+* [Tranformer](https://github.com/bentrevett/pytorch-pos-tagging/blob/master/2%20-%20Fine-tuning%20Pretrained%20Transformers%20for%20PoS%20Tagging.ipynb)
+
+### Coreference_resolution
+
+* [SpanBert](https://colab.research.google.com/drive/1SlERO9Uc9541qv6yH26LJz5IM9j7YVra#scrollTo=yWXlf3vQKDo8)
+
+### Word embedding
+
+### Sentence embedding
+
+### Question Answering
+
+### Summarization
+
+### Machine translation
+
+### Missing elements
 
 **Continuous edit process** \
 **If you have some, contribute here!**
