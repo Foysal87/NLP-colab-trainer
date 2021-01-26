@@ -52,6 +52,8 @@ A collection of colab trainer for NLP tasks.
 ### Parts of Speech(pos) tagging
 
 * [nltk/sklearn-CRF](https://colab.research.google.com/drive/1d7LO_0665DYw6DrVJXXautJAJzHHqYOm)
+* [RNN](https://github.com/Phoeboooo/pos_tagging/blob/master/pos_tagging.ipynb)
+* [LSTM+CNN](https://github.com/LeoTSH/cnn_lstm_pos_tagger/blob/master/Hybrid%20PoS%20Tagger%20Model.ipynb)
 * [Bert](https://github.com/soutsios/pos-tagger-bert/blob/master/pos_tagger_bert.ipynb)
 * [Bi-LSTM-1](https://github.com/Helvind/BiLSTM/blob/master/UD13_Load_Preprocess.py)
 * [Bi-LSTM-2](https://github.com/bentrevett/pytorch-pos-tagging/blob/master/1%20-%20BiLSTM%20for%20PoS%20Tagging.ipynb)
@@ -60,8 +62,17 @@ A collection of colab trainer for NLP tasks.
 ### Coreference_resolution
 
 * [SpanBert](https://colab.research.google.com/drive/1SlERO9Uc9541qv6yH26LJz5IM9j7YVra#scrollTo=yWXlf3vQKDo8)
+* [Featured base](https://github.com/osamaqureshi/coreferencer-pronoun-resolution/blob/master/Coreferencer%20pronoun%20resolution.ipynb)
 
 ### Word embedding
+
+* [Tensorflow](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word_embeddings.ipynb#scrollTo=aPO4_UmfF0KH)
+* [Gensim word2vec](https://github.com/cmasch/word-embeddings-from-scratch/blob/master/Create_Embeddings.ipynb)
+* [Glove](https://github.com/buomsoo-kim/Word-embedding-with-Python/blob/master/GloVe/source%20code/GloVe.ipynb)
+* [Doc2vec](https://github.com/buomsoo-kim/Word-embedding-with-Python/blob/master/doc2vec/source%20code/doc2vec.ipynb)
+* [Gensim2](https://github.com/buomsoo-kim/Word-embedding-with-Python/blob/master/doc2vec/source%20code/doc2vec.ipynb)
+* [Fasttext](https://github.com/Lausanne-ML-Meetup/ML-for-text-with-fasttext/blob/master/clean-fasttext.ipynb)
+* [Bert](https://github.com/zhang587/Bert_word_embedding/blob/master/Bert_word_embedding.ipynb)
 
 ### Sentence embedding
 
@@ -73,8 +84,7 @@ A collection of colab trainer for NLP tasks.
 
 ### Missing elements
 
-**Continuous edit process** \
-**If you have some, contribute here!**
+
 
 
 
