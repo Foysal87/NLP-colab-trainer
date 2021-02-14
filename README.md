@@ -17,6 +17,7 @@ A collection of colab trainer for NLP tasks.
 ### NLP Sentiment Analysis
 
 * [RNN-base](https://colab.research.google.com/github/d2l-ai/d2l-en-colab/blob/master/chapter_natural-language-processing-applications/sentiment-analysis-rnn.ipynb)
+* [Sklearn](https://colab.research.google.com/github/littlecolumns/ds4j-notebooks/blob/master/investigating-sentiment-analysis/notebooks/Designing%20your%20own%20sentiment%20analysis%20tool.ipynb#scrollTo=hKrXGdK3lixw)
 * [Bag of words model(tokenisation)](https://github.com/prakharchoudhary/SentimentAnalysis/blob/master/sentiment_analysis.ipynb)
 * [Bi-directional LSTM + BERT](https://github.com/hosein-m/SentimentAnalysis/blob/master/main.ipynb)(IMDB data)
 * [XLNET-Bert](https://github.com/kcmankar/pytorch-sentiment-analysis-using-XLNet/blob/master/xlnet_sentiment_analysis.ipynb)
