@@ -49,6 +49,12 @@ A collection of colab trainer for NLP tasks.
 * [Bi-LSTM](https://github.com/urigoren/nlp_ner_workshop/blob/master/notebooks/NER_with_Pytorch_Bi_LSTM.ipynb)
 * [BERT](https://colab.research.google.com/github/NVIDIA/NeMo/blob/0.9rc/examples/nlp/NERWithBERT.ipynb)
 * [SKlearn-Crf/Nltk](https://colab.research.google.com/github/dipanjanS/nlp_workshop_odsc19/blob/master/Module03%20-%20Text%20Understanding/Project%20-%20Building%20NER%20Taggers.ipynb)
+* [NER-BERT](https://github.com/sberbank-ai/ner-bert)
+* [Simple_Transformers](https://github.com/ThilinaRajapakse/simpletransformers/blob/master/examples/named_entity_recognition/named_entity_recognition.py)
+* [chinese-ner](https://github.com/ProHiryu/bert-chinese-ner)
+* [BERT-NER2](https://github.com/kyzhouhzau/BERT-NER) (python-script)
+* [BERT-ChineseNER2](https://github.com/xuanzebi/BERT-CH-NER) (Easy)
+* [BERT-LSTM-CRF-layer-Chinese](https://github.com/macanv/BERT-BiLSTM-CRF-NER)
 
 ### Parts of Speech(pos) tagging
 
